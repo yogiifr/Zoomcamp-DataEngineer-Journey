@@ -11,10 +11,15 @@
 ---
 
 # Syllabus
-#### [Introduction]()
 #### [Module 1: Containerization and Infrastructure as Code](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform)
+- Docker
+- Postgres + PGAdmin
+- Docker
+- Terraform
+- Google Cloud Platform
 
 #### [Module 2: Workflow Orchestration](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/02-workflow-orchestration)
+- MageAI
 
 #### [Module 3: Data Warehouse](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/03-data-warehouse)
 

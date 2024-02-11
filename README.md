@@ -22,6 +22,7 @@
 - MageAI
 
 #### [Module 3: Data Warehouse](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/workshops/dlt.md)
+- dlt (Data Load Tool)
 
 #### [Workshop 1: Data Ingestion](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/03-data-warehouse)
 

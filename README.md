@@ -28,6 +28,7 @@
 - dlt (Data Load Tool)
 
 #### [Module 4: Analytics engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/04-analytics-engineering)
+- dbt (Data Build Tool)
 
 #### [Module 5: Batch processing](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/05-batch)
 

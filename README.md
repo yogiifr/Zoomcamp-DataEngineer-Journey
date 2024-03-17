@@ -31,7 +31,9 @@
 - dbt (Data Build Tool)
 
 #### [Module 5: Batch processing](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/05-batch)
+- Apache Spark
 
 #### [Module 6: Streaming](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/06-streaming)
+- Apache Kafka
 
 #### [Project]()

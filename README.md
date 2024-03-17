@@ -11,29 +11,32 @@
 ---
 
 # Syllabus
-#### [Module 1: Containerization and Infrastructure as Code](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform)
+#### [Module 1: Containerization and Infrastructure as Code](/Module_1/)
 - Docker
 - Postgres + PGAdmin
 - Docker
 - Terraform
 - Google Cloud Platform
 
-#### [Module 2: Workflow Orchestration](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/02-workflow-orchestration)
+#### [Module 2: Workflow Orchestration](/Module_2/)
 - MageAI
 
-#### [Module 3: Data Warehouse](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/workshops/dlt.md)
+#### [Module 3: Data Warehouse](/Module_3/)
 - BigQuery
 
-#### [Workshop 1: Data Ingestion](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/03-data-warehouse)
+#### [Workshop 1: Data Ingestion](/Workshop_1/)
 - dlt (Data Load Tool)
 
-#### [Module 4: Analytics engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/04-analytics-engineering)
+#### [Module 4: Analytics engineering](/Module_4/)
 - dbt (Data Build Tool)
 
-#### [Module 5: Batch processing](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/05-batch)
+#### [Module 5: Batch processing](/Module_5/)
 - Apache Spark
 
-#### [Module 6: Streaming](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/06-streaming)
+#### [Workshop 2: Streaming With SQL](/Workshop_2/)
+- Rising Wave
+
+#### [Module 6: Streaming](/Module_6/)
 - Apache Kafka
 
-#### [Project]()
+#### [Final Project](/Final_Project/)
